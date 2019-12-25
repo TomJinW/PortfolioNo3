@@ -1,9 +1,15 @@
-# Portfoilo No.3: A Game Made with Teammates Using GameMaker Studio
+# Portfolio No.3: A Game Made with Teammates Using GameMaker Studio
 
 
 ## Demo Showcase
 
 - [Video record about the game on Youtube](https://youtu.be/GJWobm59nBI) 
+	
+	![avatar](./img/img005.jpg)
+
+- [Github Page for code](https://github.com/TomJinW/PortfolioNo3) 
+
+	![avatar](./img/img004.png)
 
 - The screenshots of the game.
 
@@ -30,8 +36,8 @@ The GameMaker Studio uses its own language to program, we did not use visualized
 
 - Tilesets, Sprites and artworks of images.
 - Code related to movements of characters and collision detection.
-- Testing and recoring glitches in the game.
-- Synchornizing the progress of each one of us in the team and code management.
+- Testing and recording glitches in the game.
+- Synchronizing the progress of each one of us in the team and code management.
 
 ## Things from the Internet
 
