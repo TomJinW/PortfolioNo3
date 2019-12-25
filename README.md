@@ -37,4 +37,4 @@ The GameMaker Studio uses its own language to program, we did not use visualized
 
 - The font: [EMULOGIC](https://www.fontspace.com/freaky-fonts/emulogic) ,which mimics the font style on a Nintendo Entertainment System.
 - Music. The title screen music is an 8-bit remake of the main theme of Luigi Mansion series. The main music is downloaded from the copyright free music website.
-- Many of the sound effects are direct records from the game: The Legend of Zelda on NES.
+- Many of the sound effects are directly recorded from the game: The Legend of Zelda on NES.
